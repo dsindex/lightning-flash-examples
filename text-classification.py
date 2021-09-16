@@ -4,7 +4,7 @@ import flash
 from flash.core.data.utils import download_data
 from flash.text import TextClassificationData, TextClassifier
 
-lang='kor' # 'eng', 'kor'
+lang='eng' # 'eng', 'kor'
 
 
 # 1. Create the DataModule
